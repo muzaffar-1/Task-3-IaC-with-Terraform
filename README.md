@@ -35,6 +35,6 @@ Notes
 Docker image is pulled from private Docker Hub repo.
 Container exposes port 3000 (as defined in Terraform).
 
-<img width="940" height="367" alt="image" src="https://github.com/user-attachments/assets/cf64a6e2-691c-4e83-8627-826117f724ba" />
-<img width="741" height="313" alt="image" src="https://github.com/user-attachments/assets/82bf1fae-7dc7-44db-9155-e4ea1374acc2" />
+<img width="940" height="367" alt="image" src="https://github.com/user-attachments/assets/1c7300b9-1380-4b8f-b267-5057342fc22d" />
+
 
